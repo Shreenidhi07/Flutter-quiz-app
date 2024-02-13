@@ -1,16 +1,16 @@
 # my_quiz_app
 
-A new Flutter project.
+A new Flutter project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Steps to run the app:
+Step 1 : Clone the git repository using the command "git clone https://github.com/Shreenidhi07/Flutter-quiz-app.git"
 
-A few resources to get you started if this is your first Flutter project:
+Step 2 : Navigate to the project directory using the command cd
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Step 3 : Enable Dart SDK and install the Dependencies using the command "flutter pub get"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step 4 : Connect Device or Emulator and add configuraton as "Flutter" and enter entry point as "main.dart"
+
+Step 5 : Run the Application using the comman "flutter run " or just run from the code editor
